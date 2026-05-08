@@ -4,7 +4,7 @@ Este Dashboard de Power BI analiza y optimiza el proceso de instalaciones de ser
 
 **Análisis operacional en tiempo real para mejorar la eficiencia de instalaciones y gestión de recursos técnicos**
 
-<img width="1442" height="806" alt="Captura de pantalla 2026-04-29 184508" src="https://github.com/user-attachments/assets/f049d155-9584-4461-ac78-9d9d7861bed1" />
+<img width="1447" height="814" alt="image" src="https://github.com/user-attachments/assets/dfb9f1c0-8bf4-4b3d-af76-e59f16e1f66d" />
 
 ## 📌 Objetivo del Proyecto
 
